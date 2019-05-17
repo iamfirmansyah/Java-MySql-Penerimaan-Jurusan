@@ -1,1 +1,2 @@
-"# Form-Penerimaan-Jurusan-Java-MySql-" 
+Aplikasi Java Form Penerimaan Jurusan dengan Java Netbeans dan MySql
+

@@ -1,1 +1,1 @@
-Aplikasi Form Penerimaan Jurusan dengan Netbeans dan MySql
+ Aplikasi Form Penerimaan Jurusan dengan Netbeans dan MySql
